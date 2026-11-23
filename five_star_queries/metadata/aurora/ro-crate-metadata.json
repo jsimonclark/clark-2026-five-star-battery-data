@@ -1,0 +1,6395 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Aurora Battery Assembly & Cycling Experiments",
+      "description": "A collection of battery assembly and cycling experiments exported as CSV, Parquet, and JSON-LD metadata files.",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "datePublished": "2025-07-01",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000001/"
+        },
+        {
+          "@id": "./empa__ccid000002/"
+        },
+        {
+          "@id": "./empa__ccid000003/"
+        },
+        {
+          "@id": "./empa__ccid000004/"
+        },
+        {
+          "@id": "./empa__ccid000006/"
+        },
+        {
+          "@id": "./empa__ccid000009/"
+        },
+        {
+          "@id": "./empa__ccid000010/"
+        },
+        {
+          "@id": "./empa__ccid000012/"
+        },
+        {
+          "@id": "./empa__ccid000014/"
+        },
+        {
+          "@id": "./empa__ccid000015/"
+        },
+        {
+          "@id": "./empa__ccid000016/"
+        },
+        {
+          "@id": "./empa__ccid000017/"
+        },
+        {
+          "@id": "./empa__ccid000018/"
+        },
+        {
+          "@id": "./empa__ccid000019/"
+        },
+        {
+          "@id": "./empa__ccid000020/"
+        },
+        {
+          "@id": "./empa__ccid000021/"
+        },
+        {
+          "@id": "./empa__ccid000022/"
+        },
+        {
+          "@id": "./empa__ccid000023/"
+        },
+        {
+          "@id": "./empa__ccid000024/"
+        },
+        {
+          "@id": "./empa__ccid000025/"
+        },
+        {
+          "@id": "./empa__ccid000026/"
+        },
+        {
+          "@id": "./empa__ccid000027/"
+        },
+        {
+          "@id": "./empa__ccid000028/"
+        },
+        {
+          "@id": "./empa__ccid000029/"
+        },
+        {
+          "@id": "./empa__ccid000030/"
+        },
+        {
+          "@id": "./empa__ccid000031/"
+        },
+        {
+          "@id": "./empa__ccid000032/"
+        },
+        {
+          "@id": "./empa__ccid000033/"
+        },
+        {
+          "@id": "./empa__ccid000034/"
+        },
+        {
+          "@id": "./empa__ccid000035/"
+        },
+        {
+          "@id": "./empa__ccid000036/"
+        },
+        {
+          "@id": "./empa__ccid000037/"
+        },
+        {
+          "@id": "./empa__ccid000038/"
+        },
+        {
+          "@id": "./empa__ccid000039/"
+        },
+        {
+          "@id": "./empa__ccid000040/"
+        },
+        {
+          "@id": "./empa__ccid000041/"
+        },
+        {
+          "@id": "./empa__ccid000042/"
+        },
+        {
+          "@id": "./empa__ccid000043/"
+        },
+        {
+          "@id": "./empa__ccid000044/"
+        },
+        {
+          "@id": "./empa__ccid000045/"
+        },
+        {
+          "@id": "./empa__ccid000046/"
+        },
+        {
+          "@id": "./empa__ccid000047/"
+        },
+        {
+          "@id": "./empa__ccid000048/"
+        },
+        {
+          "@id": "./empa__ccid000049/"
+        },
+        {
+          "@id": "./empa__ccid000050/"
+        },
+        {
+          "@id": "./empa__ccid000051/"
+        },
+        {
+          "@id": "./empa__ccid000052/"
+        },
+        {
+          "@id": "./empa__ccid000053/"
+        },
+        {
+          "@id": "./empa__ccid000054/"
+        },
+        {
+          "@id": "./empa__ccid000055/"
+        },
+        {
+          "@id": "./empa__ccid000056/"
+        },
+        {
+          "@id": "./empa__ccid000057/"
+        },
+        {
+          "@id": "./empa__ccid000058/"
+        },
+        {
+          "@id": "./empa__ccid000059/"
+        },
+        {
+          "@id": "./empa__ccid000060/"
+        },
+        {
+          "@id": "./empa__ccid000061/"
+        },
+        {
+          "@id": "./empa__ccid000062/"
+        },
+        {
+          "@id": "./empa__ccid000063/"
+        },
+        {
+          "@id": "./empa__ccid000064/"
+        },
+        {
+          "@id": "./empa__ccid000065/"
+        },
+        {
+          "@id": "./empa__ccid000067/"
+        },
+        {
+          "@id": "./empa__ccid000068/"
+        },
+        {
+          "@id": "./empa__ccid000069/"
+        },
+        {
+          "@id": "./empa__ccid000073/"
+        },
+        {
+          "@id": "./empa__ccid000074/"
+        },
+        {
+          "@id": "./empa__ccid000075/"
+        },
+        {
+          "@id": "./empa__ccid000076/"
+        },
+        {
+          "@id": "./empa__ccid000077/"
+        },
+        {
+          "@id": "./empa__ccid000078/"
+        },
+        {
+          "@id": "./empa__ccid000079/"
+        },
+        {
+          "@id": "./empa__ccid000080/"
+        },
+        {
+          "@id": "./empa__ccid000081/"
+        },
+        {
+          "@id": "./empa__ccid000082/"
+        },
+        {
+          "@id": "./empa__ccid000083/"
+        },
+        {
+          "@id": "./empa__ccid000085/"
+        },
+        {
+          "@id": "./empa__ccid000086/"
+        },
+        {
+          "@id": "./empa__ccid000087/"
+        },
+        {
+          "@id": "./empa__ccid000088/"
+        },
+        {
+          "@id": "./empa__ccid000089/"
+        },
+        {
+          "@id": "./empa__ccid000090/"
+        },
+        {
+          "@id": "./empa__ccid000091/"
+        },
+        {
+          "@id": "./empa__ccid000092/"
+        },
+        {
+          "@id": "./empa__ccid000093/"
+        },
+        {
+          "@id": "./empa__ccid000094/"
+        },
+        {
+          "@id": "./empa__ccid000095/"
+        },
+        {
+          "@id": "./empa__ccid000096/"
+        },
+        {
+          "@id": "./empa__ccid000097/"
+        },
+        {
+          "@id": "./empa__ccid000098/"
+        },
+        {
+          "@id": "./empa__ccid000099/"
+        },
+        {
+          "@id": "./empa__ccid000100/"
+        },
+        {
+          "@id": "./empa__ccid000101/"
+        },
+        {
+          "@id": "./empa__ccid000103/"
+        },
+        {
+          "@id": "./empa__ccid000104/"
+        },
+        {
+          "@id": "./empa__ccid000106/"
+        },
+        {
+          "@id": "./empa__ccid000107/"
+        },
+        {
+          "@id": "./empa__ccid000108/"
+        },
+        {
+          "@id": "./empa__ccid000109/"
+        },
+        {
+          "@id": "./empa__ccid000110/"
+        },
+        {
+          "@id": "./empa__ccid000111/"
+        },
+        {
+          "@id": "./empa__ccid000112/"
+        },
+        {
+          "@id": "./empa__ccid000113/"
+        },
+        {
+          "@id": "./empa__ccid000114/"
+        },
+        {
+          "@id": "./empa__ccid000115/"
+        },
+        {
+          "@id": "./empa__ccid000116/"
+        },
+        {
+          "@id": "./empa__ccid000117/"
+        },
+        {
+          "@id": "./empa__ccid000118/"
+        },
+        {
+          "@id": "./empa__ccid000119/"
+        },
+        {
+          "@id": "./empa__ccid000120/"
+        },
+        {
+          "@id": "./empa__ccid000121/"
+        },
+        {
+          "@id": "./empa__ccid000122/"
+        },
+        {
+          "@id": "./empa__ccid000123/"
+        },
+        {
+          "@id": "./empa__ccid000124/"
+        },
+        {
+          "@id": "./empa__ccid000125/"
+        },
+        {
+          "@id": "./empa__ccid000126/"
+        },
+        {
+          "@id": "./empa__ccid000127/"
+        },
+        {
+          "@id": "./empa__ccid000128/"
+        },
+        {
+          "@id": "./empa__ccid000129/"
+        },
+        {
+          "@id": "./empa__ccid000130/"
+        },
+        {
+          "@id": "./empa__ccid000131/"
+        },
+        {
+          "@id": "./empa__ccid000132/"
+        },
+        {
+          "@id": "./empa__ccid000133/"
+        },
+        {
+          "@id": "./empa__ccid000134/"
+        },
+        {
+          "@id": "./empa__ccid000135/"
+        },
+        {
+          "@id": "./empa__ccid000136/"
+        },
+        {
+          "@id": "./empa__ccid000137/"
+        },
+        {
+          "@id": "./empa__ccid000138/"
+        },
+        {
+          "@id": "./empa__ccid000139/"
+        },
+        {
+          "@id": "./empa__ccid000140/"
+        },
+        {
+          "@id": "./empa__ccid000141/"
+        },
+        {
+          "@id": "./empa__ccid000142/"
+        },
+        {
+          "@id": "./empa__ccid000143/"
+        },
+        {
+          "@id": "./empa__ccid000144/"
+        },
+        {
+          "@id": "./empa__ccid000145/"
+        },
+        {
+          "@id": "./empa__ccid000146/"
+        },
+        {
+          "@id": "./empa__ccid000147/"
+        },
+        {
+          "@id": "./empa__ccid000148/"
+        },
+        {
+          "@id": "./empa__ccid000149/"
+        },
+        {
+          "@id": "./empa__ccid000150/"
+        },
+        {
+          "@id": "./empa__ccid000157/"
+        },
+        {
+          "@id": "./empa__ccid000158/"
+        },
+        {
+          "@id": "./empa__ccid000159/"
+        },
+        {
+          "@id": "./empa__ccid000160/"
+        },
+        {
+          "@id": "./empa__ccid000161/"
+        },
+        {
+          "@id": "./empa__ccid000162/"
+        },
+        {
+          "@id": "./empa__ccid000169/"
+        },
+        {
+          "@id": "./empa__ccid000170/"
+        },
+        {
+          "@id": "./empa__ccid000171/"
+        },
+        {
+          "@id": "./empa__ccid000172/"
+        },
+        {
+          "@id": "./empa__ccid000173/"
+        },
+        {
+          "@id": "./empa__ccid000174/"
+        },
+        {
+          "@id": "./empa__ccid000181/"
+        },
+        {
+          "@id": "./empa__ccid000182/"
+        },
+        {
+          "@id": "./empa__ccid000183/"
+        },
+        {
+          "@id": "./empa__ccid000184/"
+        },
+        {
+          "@id": "./empa__ccid000186/"
+        },
+        {
+          "@id": "./empa__ccid000193/"
+        },
+        {
+          "@id": "./empa__ccid000194/"
+        },
+        {
+          "@id": "./empa__ccid000195/"
+        },
+        {
+          "@id": "./empa__ccid000196/"
+        },
+        {
+          "@id": "./empa__ccid000197/"
+        },
+        {
+          "@id": "./empa__ccid000198/"
+        },
+        {
+          "@id": "./empa__ccid000205/"
+        },
+        {
+          "@id": "./empa__ccid000206/"
+        },
+        {
+          "@id": "./empa__ccid000207/"
+        },
+        {
+          "@id": "./empa__ccid000208/"
+        },
+        {
+          "@id": "./empa__ccid000209/"
+        },
+        {
+          "@id": "./empa__ccid000210/"
+        },
+        {
+          "@id": "./empa__ccid000217/"
+        },
+        {
+          "@id": "./empa__ccid000218/"
+        },
+        {
+          "@id": "./empa__ccid000219/"
+        },
+        {
+          "@id": "./empa__ccid000220/"
+        },
+        {
+          "@id": "./empa__ccid000221/"
+        },
+        {
+          "@id": "./empa__ccid000222/"
+        },
+        {
+          "@id": "./empa__ccid000223/"
+        },
+        {
+          "@id": "./empa__ccid000224/"
+        },
+        {
+          "@id": "./empa__ccid000225/"
+        },
+        {
+          "@id": "./empa__ccid000226/"
+        },
+        {
+          "@id": "./empa__ccid000227/"
+        },
+        {
+          "@id": "./empa__ccid000228/"
+        },
+        {
+          "@id": "./empa__ccid000229/"
+        },
+        {
+          "@id": "./empa__ccid000230/"
+        },
+        {
+          "@id": "./empa__ccid000231/"
+        },
+        {
+          "@id": "./empa__ccid000232/"
+        },
+        {
+          "@id": "./empa__ccid000233/"
+        },
+        {
+          "@id": "./empa__ccid000234/"
+        },
+        {
+          "@id": "./empa__ccid000235/"
+        },
+        {
+          "@id": "./empa__ccid000236/"
+        },
+        {
+          "@id": "./empa__ccid000237/"
+        },
+        {
+          "@id": "./empa__ccid000238/"
+        },
+        {
+          "@id": "./empa__ccid000239/"
+        },
+        {
+          "@id": "./empa__ccid000240/"
+        },
+        {
+          "@id": "./empa__ccid000241/"
+        },
+        {
+          "@id": "./empa__ccid000242/"
+        },
+        {
+          "@id": "./empa__ccid000243/"
+        },
+        {
+          "@id": "./empa__ccid000244/"
+        },
+        {
+          "@id": "./empa__ccid000245/"
+        },
+        {
+          "@id": "./empa__ccid000246/"
+        },
+        {
+          "@id": "./empa__ccid000247/"
+        },
+        {
+          "@id": "./empa__ccid000249/"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000001/empa__ccid000001.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000001/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000001/empa__ccid000001.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000001/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000001/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000001 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000001/empa__ccid000001.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000001/empa__ccid000001.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000002/empa__ccid000002.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000002/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000002/empa__ccid000002.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000002/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000002/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000002 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000002/empa__ccid000002.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000002/empa__ccid000002.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000003/empa__ccid000003.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000003/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000003/empa__ccid000003.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000003/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000003/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000003 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000003/empa__ccid000003.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000003/empa__ccid000003.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000004/empa__ccid000004.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000004/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000004/empa__ccid000004.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000004/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000004/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000004 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000004/empa__ccid000004.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000004/empa__ccid000004.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000006/empa__ccid000006.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000006/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000006/empa__ccid000006.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000006/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000006/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000006 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000006/empa__ccid000006.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000006/empa__ccid000006.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000009/empa__ccid000009.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000009/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000009/empa__ccid000009.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000009/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000009/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000009 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000009/empa__ccid000009.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000009/empa__ccid000009.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000010/empa__ccid000010.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000010/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000010/empa__ccid000010.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000010/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000010/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000010 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000010/empa__ccid000010.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000010/empa__ccid000010.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000012/empa__ccid000012.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000012/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000012/empa__ccid000012.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000012/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000012/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000012 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000012/empa__ccid000012.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000012/empa__ccid000012.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000014/empa__ccid000014.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000014/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000014/empa__ccid000014.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000014/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000014/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000014 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000014/empa__ccid000014.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000014/empa__ccid000014.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000015/empa__ccid000015.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000015/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000015/empa__ccid000015.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000015/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000015/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000015 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000015/empa__ccid000015.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000015/empa__ccid000015.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000016/empa__ccid000016.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000016/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000016/empa__ccid000016.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000016/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000016/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000016 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000016/empa__ccid000016.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000016/empa__ccid000016.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000017/empa__ccid000017.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000017/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000017/empa__ccid000017.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000017/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000017/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000017 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000017/empa__ccid000017.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000017/empa__ccid000017.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000018/empa__ccid000018.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000018/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000018/empa__ccid000018.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000018/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000018/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000018 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000018/empa__ccid000018.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000018/empa__ccid000018.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000019/empa__ccid000019.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000019/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000019/empa__ccid000019.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000019/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000019/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000019 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000019/empa__ccid000019.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000019/empa__ccid000019.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000020/empa__ccid000020.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000020/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000020/empa__ccid000020.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000020/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000020/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000020 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000020/empa__ccid000020.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000020/empa__ccid000020.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000021/empa__ccid000021.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000021/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000021/empa__ccid000021.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000021/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000021/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000021 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000021/empa__ccid000021.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000021/empa__ccid000021.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000022/empa__ccid000022.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000022/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000022/empa__ccid000022.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000022/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000022/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000022 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000022/empa__ccid000022.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000022/empa__ccid000022.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000023/empa__ccid000023.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000023/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000023/empa__ccid000023.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000023/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000023/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000023 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000023/empa__ccid000023.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000023/empa__ccid000023.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000024/empa__ccid000024.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000024/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000024/empa__ccid000024.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000024/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000024/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000024 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000024/empa__ccid000024.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000024/empa__ccid000024.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000025/empa__ccid000025.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000025/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000025/empa__ccid000025.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000025/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000025/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000025 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000025/empa__ccid000025.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000025/empa__ccid000025.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000026/empa__ccid000026.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000026/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000026/empa__ccid000026.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000026/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000026/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000026 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000026/empa__ccid000026.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000026/empa__ccid000026.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000027/empa__ccid000027.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000027/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000027/empa__ccid000027.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000027/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000027/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000027 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000027/empa__ccid000027.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000027/empa__ccid000027.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000028/empa__ccid000028.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000028/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000028/empa__ccid000028.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000028/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000028/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000028 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000028/empa__ccid000028.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000028/empa__ccid000028.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000029/empa__ccid000029.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000029/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000029/empa__ccid000029.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000029/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000029/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000029 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000029/empa__ccid000029.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000029/empa__ccid000029.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000030/empa__ccid000030.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000030/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000030/empa__ccid000030.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000030/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000030/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000030 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000030/empa__ccid000030.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000030/empa__ccid000030.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000031/empa__ccid000031.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000031/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000031/empa__ccid000031.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000031/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000031/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000031 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000031/empa__ccid000031.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000031/empa__ccid000031.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000032/empa__ccid000032.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000032/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000032/empa__ccid000032.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000032/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000032/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000032 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000032/empa__ccid000032.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000032/empa__ccid000032.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000033/empa__ccid000033.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000033/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000033/empa__ccid000033.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000033/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000033/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000033 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000033/empa__ccid000033.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000033/empa__ccid000033.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000034/empa__ccid000034.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000034/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000034/empa__ccid000034.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000034/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000034/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000034 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000034/empa__ccid000034.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000034/empa__ccid000034.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000035/empa__ccid000035.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000035/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000035/empa__ccid000035.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000035/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000035/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000035 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000035/empa__ccid000035.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000035/empa__ccid000035.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000036/empa__ccid000036.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000036/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000036/empa__ccid000036.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000036/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000036/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000036 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000036/empa__ccid000036.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000036/empa__ccid000036.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000037/empa__ccid000037.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000037/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000037/empa__ccid000037.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000037/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000037/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000037 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000037/empa__ccid000037.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000037/empa__ccid000037.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000038/empa__ccid000038.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000038/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000038/empa__ccid000038.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000038/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000038/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000038 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000038/empa__ccid000038.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000038/empa__ccid000038.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000039/empa__ccid000039.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000039/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000039/empa__ccid000039.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000039/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000039/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000039 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000039/empa__ccid000039.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000039/empa__ccid000039.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000040/empa__ccid000040.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000040/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000040/empa__ccid000040.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000040/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000040/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000040 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000040/empa__ccid000040.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000040/empa__ccid000040.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000041/empa__ccid000041.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000041/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000041/empa__ccid000041.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000041/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000041/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000041 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000041/empa__ccid000041.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000041/empa__ccid000041.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000042/empa__ccid000042.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000042/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000042/empa__ccid000042.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000042/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000042/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000042 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000042/empa__ccid000042.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000042/empa__ccid000042.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000043/empa__ccid000043.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000043/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000043/empa__ccid000043.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000043/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000043/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000043 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000043/empa__ccid000043.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000043/empa__ccid000043.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000044/empa__ccid000044.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000044/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000044/empa__ccid000044.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000044/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000044/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000044 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000044/empa__ccid000044.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000044/empa__ccid000044.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000045/empa__ccid000045.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000045/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000045/empa__ccid000045.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000045/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000045/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000045 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000045/empa__ccid000045.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000045/empa__ccid000045.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000046/empa__ccid000046.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000046/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000046/empa__ccid000046.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000046/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000046/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000046 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000046/empa__ccid000046.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000046/empa__ccid000046.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000047/empa__ccid000047.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000047/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000047/empa__ccid000047.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000047/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000047/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000047 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000047/empa__ccid000047.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000047/empa__ccid000047.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000048/empa__ccid000048.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000048/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000048/empa__ccid000048.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000048/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000048/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000048 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000048/empa__ccid000048.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000048/empa__ccid000048.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000049/empa__ccid000049.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000049/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000049/empa__ccid000049.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000049/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000049/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000049 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000049/empa__ccid000049.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000049/empa__ccid000049.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000050/empa__ccid000050.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000050/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000050/empa__ccid000050.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000050/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000050/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000050 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000050/empa__ccid000050.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000050/empa__ccid000050.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000051/empa__ccid000051.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000051/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000051/empa__ccid000051.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000051/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000051/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000051 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000051/empa__ccid000051.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000051/empa__ccid000051.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000052/empa__ccid000052.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000052/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000052/empa__ccid000052.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000052/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000052/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000052 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000052/empa__ccid000052.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000052/empa__ccid000052.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000053/empa__ccid000053.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000053/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000053/empa__ccid000053.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000053/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000053/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000053 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000053/empa__ccid000053.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000053/empa__ccid000053.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000054/empa__ccid000054.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000054/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000054/empa__ccid000054.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000054/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000054/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000054 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000054/empa__ccid000054.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000054/empa__ccid000054.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000055/empa__ccid000055.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000055/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000055/empa__ccid000055.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000055/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000055/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000055 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000055/empa__ccid000055.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000055/empa__ccid000055.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000056/empa__ccid000056.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000056/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000056/empa__ccid000056.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000056/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000056/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000056 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000056/empa__ccid000056.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000056/empa__ccid000056.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000057/empa__ccid000057.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000057/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000057/empa__ccid000057.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000057/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000057/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000057 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000057/empa__ccid000057.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000057/empa__ccid000057.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000058/empa__ccid000058.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000058/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000058/empa__ccid000058.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000058/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000058/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000058 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000058/empa__ccid000058.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000058/empa__ccid000058.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000059/empa__ccid000059.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000059/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000059/empa__ccid000059.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000059/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000059/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000059 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000059/empa__ccid000059.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000059/empa__ccid000059.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000060/empa__ccid000060.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000060/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000060/empa__ccid000060.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000060/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000060/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000060 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000060/empa__ccid000060.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000060/empa__ccid000060.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000061/empa__ccid000061.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000061/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000061/empa__ccid000061.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000061/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000061/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000061 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000061/empa__ccid000061.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000061/empa__ccid000061.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000062/empa__ccid000062.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000062/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000062/empa__ccid000062.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000062/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000062/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000062 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000062/empa__ccid000062.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000062/empa__ccid000062.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000063/empa__ccid000063.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000063/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000063/empa__ccid000063.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000063/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000063/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000063 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000063/empa__ccid000063.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000063/empa__ccid000063.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000064/empa__ccid000064.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000064/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000064/empa__ccid000064.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000064/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000064/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000064 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000064/empa__ccid000064.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000064/empa__ccid000064.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000065/empa__ccid000065.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000065/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000065/empa__ccid000065.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000065/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000065/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000065 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000065/empa__ccid000065.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000065/empa__ccid000065.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000067/empa__ccid000067.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000067/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000067/empa__ccid000067.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000067/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000067/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000067 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000067/empa__ccid000067.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000067/empa__ccid000067.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000068/empa__ccid000068.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000068/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000068/empa__ccid000068.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000068/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000068/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000068 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000068/empa__ccid000068.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000068/empa__ccid000068.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000069/empa__ccid000069.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000069/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000069/empa__ccid000069.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000069/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000069/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000069 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000069/empa__ccid000069.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000069/empa__ccid000069.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000073/empa__ccid000073.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000073/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000073/empa__ccid000073.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000073/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000073/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000073 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000073/empa__ccid000073.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000073/empa__ccid000073.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000074/empa__ccid000074.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000074/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000074/empa__ccid000074.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000074/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000074/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000074 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000074/empa__ccid000074.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000074/empa__ccid000074.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000075/empa__ccid000075.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000075/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000075/empa__ccid000075.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000075/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000075/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000075 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000075/empa__ccid000075.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000075/empa__ccid000075.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000076/empa__ccid000076.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000076/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000076/empa__ccid000076.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000076/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000076/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000076 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000076/empa__ccid000076.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000076/empa__ccid000076.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000077/empa__ccid000077.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000077/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000077/empa__ccid000077.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000077/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000077/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000077 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000077/empa__ccid000077.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000077/empa__ccid000077.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000078/empa__ccid000078.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000078/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000078/empa__ccid000078.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000078/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000078/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000078 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000078/empa__ccid000078.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000078/empa__ccid000078.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000079/empa__ccid000079.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000079/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000079/empa__ccid000079.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000079/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000079/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000079 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000079/empa__ccid000079.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000079/empa__ccid000079.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000080/empa__ccid000080.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000080/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000080/empa__ccid000080.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000080/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000080/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000080 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000080/empa__ccid000080.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000080/empa__ccid000080.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000081/empa__ccid000081.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000081/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000081/empa__ccid000081.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000081/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000081/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000081 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000081/empa__ccid000081.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000081/empa__ccid000081.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000082/empa__ccid000082.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000082/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000082/empa__ccid000082.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000082/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000082/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000082 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000082/empa__ccid000082.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000082/empa__ccid000082.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000083/empa__ccid000083.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000083/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000083/empa__ccid000083.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000083/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000083/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000083 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000083/empa__ccid000083.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000083/empa__ccid000083.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000085/empa__ccid000085.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000085/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000085/empa__ccid000085.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000085/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000085/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000085 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000085/empa__ccid000085.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000085/empa__ccid000085.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000086/empa__ccid000086.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000086/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000086/empa__ccid000086.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000086/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000086/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000086 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000086/empa__ccid000086.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000086/empa__ccid000086.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000087/empa__ccid000087.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000087/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000087/empa__ccid000087.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000087/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000087/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000087 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000087/empa__ccid000087.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000087/empa__ccid000087.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000088/empa__ccid000088.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000088/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000088/empa__ccid000088.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000088/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000088/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000088 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000088/empa__ccid000088.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000088/empa__ccid000088.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000089/empa__ccid000089.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000089/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000089/empa__ccid000089.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000089/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000089/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000089 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000089/empa__ccid000089.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000089/empa__ccid000089.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000090/empa__ccid000090.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000090/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000090/empa__ccid000090.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000090/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000090/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000090 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000090/empa__ccid000090.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000090/empa__ccid000090.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000091/empa__ccid000091.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000091/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000091/empa__ccid000091.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000091/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000091/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000091 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000091/empa__ccid000091.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000091/empa__ccid000091.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000092/empa__ccid000092.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000092/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000092/empa__ccid000092.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000092/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000092/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000092 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000092/empa__ccid000092.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000092/empa__ccid000092.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000093/empa__ccid000093.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000093/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000093/empa__ccid000093.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000093/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000093/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000093 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000093/empa__ccid000093.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000093/empa__ccid000093.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000094/empa__ccid000094.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000094/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000094/empa__ccid000094.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000094/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000094/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000094 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000094/empa__ccid000094.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000094/empa__ccid000094.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000095/empa__ccid000095.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000095/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000095/empa__ccid000095.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000095/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000095/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000095 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000095/empa__ccid000095.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000095/empa__ccid000095.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000096/empa__ccid000096.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000096/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000096/empa__ccid000096.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000096/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000096/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000096 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000096/empa__ccid000096.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000096/empa__ccid000096.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000097/empa__ccid000097.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000097/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000097/empa__ccid000097.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000097/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000097/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000097 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000097/empa__ccid000097.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000097/empa__ccid000097.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000098/empa__ccid000098.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000098/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000098/empa__ccid000098.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000098/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000098/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000098 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000098/empa__ccid000098.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000098/empa__ccid000098.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000099/empa__ccid000099.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000099/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000099/empa__ccid000099.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000099/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000099/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000099 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000099/empa__ccid000099.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000099/empa__ccid000099.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000100/empa__ccid000100.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000100/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000100/empa__ccid000100.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000100/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000100/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000100 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000100/empa__ccid000100.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000100/empa__ccid000100.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000101/empa__ccid000101.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000101/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000101/empa__ccid000101.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000101/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000101/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000101 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000101/empa__ccid000101.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000101/empa__ccid000101.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000103/empa__ccid000103.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000103/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000103/empa__ccid000103.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000103/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000103/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000103 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000103/empa__ccid000103.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000103/empa__ccid000103.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000104/empa__ccid000104.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000104/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000104/empa__ccid000104.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000104/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000104/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000104 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000104/empa__ccid000104.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000104/empa__ccid000104.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000106/empa__ccid000106.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000106/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000106/empa__ccid000106.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000106/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000106/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000106 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000106/empa__ccid000106.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000106/empa__ccid000106.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000107/empa__ccid000107.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000107/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000107/empa__ccid000107.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000107/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000107/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000107 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000107/empa__ccid000107.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000107/empa__ccid000107.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000108/empa__ccid000108.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000108/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000108/empa__ccid000108.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000108/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000108/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000108 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000108/empa__ccid000108.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000108/empa__ccid000108.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000109/empa__ccid000109.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000109/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000109/empa__ccid000109.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000109/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000109/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000109 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000109/empa__ccid000109.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000109/empa__ccid000109.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000110/empa__ccid000110.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000110/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000110/empa__ccid000110.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000110/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000110/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000110 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000110/empa__ccid000110.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000110/empa__ccid000110.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000111/empa__ccid000111.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000111/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000111/empa__ccid000111.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000111/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000111/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000111 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000111/empa__ccid000111.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000111/empa__ccid000111.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000112/empa__ccid000112.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000112/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000112/empa__ccid000112.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000112/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000112/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000112 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000112/empa__ccid000112.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000112/empa__ccid000112.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000113/empa__ccid000113.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000113/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000113/empa__ccid000113.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000113/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000113/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000113 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000113/empa__ccid000113.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000113/empa__ccid000113.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000114/empa__ccid000114.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000114/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000114/empa__ccid000114.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000114/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000114/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000114 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000114/empa__ccid000114.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000114/empa__ccid000114.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000115/empa__ccid000115.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000115/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000115/empa__ccid000115.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000115/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000115/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000115 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000115/empa__ccid000115.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000115/empa__ccid000115.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000116/empa__ccid000116.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000116/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000116/empa__ccid000116.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000116/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000116/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000116 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000116/empa__ccid000116.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000116/empa__ccid000116.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000117/empa__ccid000117.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000117/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000117/empa__ccid000117.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000117/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000117/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000117 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000117/empa__ccid000117.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000117/empa__ccid000117.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000118/empa__ccid000118.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000118/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000118/empa__ccid000118.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000118/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000118/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000118 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000118/empa__ccid000118.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000118/empa__ccid000118.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000119/empa__ccid000119.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000119/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000119/empa__ccid000119.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000119/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000119/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000119 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000119/empa__ccid000119.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000119/empa__ccid000119.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000120/empa__ccid000120.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000120/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000120/empa__ccid000120.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000120/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000120/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000120 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000120/empa__ccid000120.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000120/empa__ccid000120.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000121/empa__ccid000121.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000121/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000121/empa__ccid000121.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000121/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000121/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000121 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000121/empa__ccid000121.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000121/empa__ccid000121.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000122/empa__ccid000122.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000122/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000122/empa__ccid000122.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000122/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000122/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000122 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000122/empa__ccid000122.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000122/empa__ccid000122.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000123/empa__ccid000123.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000123/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000123/empa__ccid000123.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000123/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000123/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000123 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000123/empa__ccid000123.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000123/empa__ccid000123.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000124/empa__ccid000124.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000124/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000124/empa__ccid000124.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000124/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000124/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000124 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000124/empa__ccid000124.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000124/empa__ccid000124.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000125/empa__ccid000125.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000125/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000125/empa__ccid000125.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000125/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000125/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000125 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000125/empa__ccid000125.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000125/empa__ccid000125.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000126/empa__ccid000126.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000126/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000126/empa__ccid000126.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000126/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000126/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000126 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000126/empa__ccid000126.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000126/empa__ccid000126.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000127/empa__ccid000127.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000127/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000127/empa__ccid000127.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000127/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000127/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000127 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000127/empa__ccid000127.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000127/empa__ccid000127.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000128/empa__ccid000128.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000128/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000128/empa__ccid000128.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000128/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000128/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000128 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000128/empa__ccid000128.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000128/empa__ccid000128.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000129/empa__ccid000129.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000129/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000129/empa__ccid000129.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000129/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000129/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000129 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000129/empa__ccid000129.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000129/empa__ccid000129.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000130/empa__ccid000130.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000130/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000130/empa__ccid000130.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000130/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000130/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000130 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000130/empa__ccid000130.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000130/empa__ccid000130.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000131/empa__ccid000131.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000131/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000131/empa__ccid000131.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000131/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000131/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000131 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000131/empa__ccid000131.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000131/empa__ccid000131.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000132/empa__ccid000132.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000132/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000132/empa__ccid000132.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000132/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000132/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000132 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000132/empa__ccid000132.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000132/empa__ccid000132.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000133/empa__ccid000133.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000133/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000133/empa__ccid000133.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000133/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000133/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000133 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000133/empa__ccid000133.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000133/empa__ccid000133.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000134/empa__ccid000134.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000134/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000134/empa__ccid000134.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000134/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000134/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000134 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000134/empa__ccid000134.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000134/empa__ccid000134.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000135/empa__ccid000135.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000135/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000135/empa__ccid000135.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000135/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000135/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000135 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000135/empa__ccid000135.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000135/empa__ccid000135.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000136/empa__ccid000136.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000136/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000136/empa__ccid000136.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000136/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000136/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000136 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000136/empa__ccid000136.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000136/empa__ccid000136.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000137/empa__ccid000137.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000137/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000137/empa__ccid000137.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000137/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000137/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000137 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000137/empa__ccid000137.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000137/empa__ccid000137.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000138/empa__ccid000138.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000138/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000138/empa__ccid000138.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000138/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000138/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000138 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000138/empa__ccid000138.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000138/empa__ccid000138.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000139/empa__ccid000139.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000139/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000139/empa__ccid000139.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000139/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000139/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000139 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000139/empa__ccid000139.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000139/empa__ccid000139.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000140/empa__ccid000140.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000140/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000140/empa__ccid000140.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000140/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000140/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000140 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000140/empa__ccid000140.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000140/empa__ccid000140.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000141/empa__ccid000141.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000141/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000141/empa__ccid000141.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000141/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000141/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000141 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000141/empa__ccid000141.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000141/empa__ccid000141.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000142/empa__ccid000142.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000142/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000142/empa__ccid000142.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000142/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000142/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000142 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000142/empa__ccid000142.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000142/empa__ccid000142.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000143/empa__ccid000143.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000143/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000143/empa__ccid000143.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000143/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000143/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000143 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000143/empa__ccid000143.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000143/empa__ccid000143.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000144/empa__ccid000144.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000144/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000144/empa__ccid000144.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000144/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000144/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000144 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000144/empa__ccid000144.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000144/empa__ccid000144.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000145/empa__ccid000145.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000145/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000145/empa__ccid000145.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000145/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000145/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000145 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000145/empa__ccid000145.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000145/empa__ccid000145.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000146/empa__ccid000146.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000146/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000146/empa__ccid000146.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000146/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000146/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000146 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000146/empa__ccid000146.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000146/empa__ccid000146.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000147/empa__ccid000147.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000147/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000147/empa__ccid000147.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000147/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000147/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000147 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000147/empa__ccid000147.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000147/empa__ccid000147.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000148/empa__ccid000148.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000148/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000148/empa__ccid000148.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000148/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000148/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000148 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000148/empa__ccid000148.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000148/empa__ccid000148.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000149/empa__ccid000149.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000149/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000149/empa__ccid000149.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000149/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000149/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000149 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000149/empa__ccid000149.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000149/empa__ccid000149.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000150/empa__ccid000150.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000150/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000150/empa__ccid000150.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000150/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000150/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000150 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000150/empa__ccid000150.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000150/empa__ccid000150.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000157/empa__ccid000157.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000157/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000157/empa__ccid000157.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000157/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000157/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000157 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000157/empa__ccid000157.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000157/empa__ccid000157.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000158/empa__ccid000158.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000158/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000158/empa__ccid000158.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000158/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000158/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000158 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000158/empa__ccid000158.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000158/empa__ccid000158.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000159/empa__ccid000159.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000159/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000159/empa__ccid000159.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000159/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000159/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000159 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000159/empa__ccid000159.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000159/empa__ccid000159.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000160/empa__ccid000160.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000160/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000160/empa__ccid000160.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000160/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000160/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000160 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000160/empa__ccid000160.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000160/empa__ccid000160.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000161/empa__ccid000161.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000161/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000161/empa__ccid000161.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000161/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000161/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000161 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000161/empa__ccid000161.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000161/empa__ccid000161.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000162/empa__ccid000162.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000162/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000162/empa__ccid000162.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000162/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000162/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000162 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000162/empa__ccid000162.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000162/empa__ccid000162.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000169/empa__ccid000169.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000169/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000169/empa__ccid000169.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000169/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000169/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000169 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000169/empa__ccid000169.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000169/empa__ccid000169.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000170/empa__ccid000170.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000170/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000170/empa__ccid000170.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000170/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000170/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000170 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000170/empa__ccid000170.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000170/empa__ccid000170.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000171/empa__ccid000171.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000171/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000171/empa__ccid000171.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000171/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000171/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000171 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000171/empa__ccid000171.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000171/empa__ccid000171.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000172/empa__ccid000172.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000172/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000172/empa__ccid000172.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000172/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000172/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000172 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000172/empa__ccid000172.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000172/empa__ccid000172.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000173/empa__ccid000173.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000173/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000173/empa__ccid000173.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000173/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000173/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000173 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000173/empa__ccid000173.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000173/empa__ccid000173.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000174/empa__ccid000174.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000174/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000174/empa__ccid000174.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000174/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000174/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000174 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000174/empa__ccid000174.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000174/empa__ccid000174.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000181/empa__ccid000181.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000181/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000181/empa__ccid000181.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000181/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000181/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000181 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000181/empa__ccid000181.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000181/empa__ccid000181.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000182/empa__ccid000182.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000182/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000182/empa__ccid000182.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000182/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000182/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000182 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000182/empa__ccid000182.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000182/empa__ccid000182.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000183/empa__ccid000183.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000183/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000183/empa__ccid000183.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000183/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000183/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000183 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000183/empa__ccid000183.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000183/empa__ccid000183.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000184/empa__ccid000184.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000184/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000184/empa__ccid000184.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000184/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000184/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000184 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000184/empa__ccid000184.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000184/empa__ccid000184.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000186/empa__ccid000186.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000186/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000186/empa__ccid000186.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000186/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000186/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000186 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000186/empa__ccid000186.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000186/empa__ccid000186.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000193/empa__ccid000193.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000193/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000193/empa__ccid000193.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000193/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000193/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000193 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000193/empa__ccid000193.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000193/empa__ccid000193.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000194/empa__ccid000194.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000194/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000194/empa__ccid000194.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000194/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000194/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000194 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000194/empa__ccid000194.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000194/empa__ccid000194.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000195/empa__ccid000195.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000195/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000195/empa__ccid000195.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000195/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000195/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000195 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000195/empa__ccid000195.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000195/empa__ccid000195.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000196/empa__ccid000196.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000196/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000196/empa__ccid000196.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000196/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000196/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000196 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000196/empa__ccid000196.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000196/empa__ccid000196.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000197/empa__ccid000197.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000197/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000197/empa__ccid000197.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000197/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000197/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000197 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000197/empa__ccid000197.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000197/empa__ccid000197.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000198/empa__ccid000198.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000198/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000198/empa__ccid000198.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000198/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000198/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000198 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000198/empa__ccid000198.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000198/empa__ccid000198.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000205/empa__ccid000205.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000205/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000205/empa__ccid000205.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000205/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000205/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000205 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000205/empa__ccid000205.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000205/empa__ccid000205.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000206/empa__ccid000206.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000206/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000206/empa__ccid000206.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000206/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000206/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000206 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000206/empa__ccid000206.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000206/empa__ccid000206.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000207/empa__ccid000207.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000207/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000207/empa__ccid000207.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000207/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000207/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000207 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000207/empa__ccid000207.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000207/empa__ccid000207.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000208/empa__ccid000208.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000208/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000208/empa__ccid000208.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000208/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000208/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000208 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000208/empa__ccid000208.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000208/empa__ccid000208.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000209/empa__ccid000209.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000209/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000209/empa__ccid000209.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000209/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000209/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000209 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000209/empa__ccid000209.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000209/empa__ccid000209.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000210/empa__ccid000210.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000210/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000210/empa__ccid000210.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000210/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000210/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000210 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000210/empa__ccid000210.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000210/empa__ccid000210.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000217/empa__ccid000217.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000217/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000217/empa__ccid000217.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000217/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000217/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000217 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000217/empa__ccid000217.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000217/empa__ccid000217.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000218/empa__ccid000218.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000218/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000218/empa__ccid000218.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000218/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000218/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000218 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000218/empa__ccid000218.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000218/empa__ccid000218.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000219/empa__ccid000219.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000219/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000219/empa__ccid000219.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000219/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000219/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000219 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000219/empa__ccid000219.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000219/empa__ccid000219.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000220/empa__ccid000220.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000220/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000220/empa__ccid000220.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000220/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000220/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000220 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000220/empa__ccid000220.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000220/empa__ccid000220.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000221/empa__ccid000221.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000221/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000221/empa__ccid000221.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000221/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000221/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000221 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000221/empa__ccid000221.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000221/empa__ccid000221.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000222/empa__ccid000222.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000222/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000222/empa__ccid000222.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000222/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000222/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000222 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000222/empa__ccid000222.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000222/empa__ccid000222.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000223/empa__ccid000223.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000223/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000223/empa__ccid000223.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000223/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000223/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000223 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000223/empa__ccid000223.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000223/empa__ccid000223.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000224/empa__ccid000224.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000224/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000224/empa__ccid000224.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000224/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000224/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000224 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000224/empa__ccid000224.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000224/empa__ccid000224.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000225/empa__ccid000225.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000225/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000225/empa__ccid000225.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000225/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000225/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000225 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000225/empa__ccid000225.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000225/empa__ccid000225.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000226/empa__ccid000226.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000226/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000226/empa__ccid000226.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000226/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000226/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000226 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000226/empa__ccid000226.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000226/empa__ccid000226.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000227/empa__ccid000227.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000227/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000227/empa__ccid000227.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000227/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000227/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000227 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000227/empa__ccid000227.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000227/empa__ccid000227.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000228/empa__ccid000228.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000228/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000228/empa__ccid000228.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000228/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000228/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000228 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000228/empa__ccid000228.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000228/empa__ccid000228.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000229/empa__ccid000229.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000229/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000229/empa__ccid000229.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000229/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000229/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000229 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000229/empa__ccid000229.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000229/empa__ccid000229.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000230/empa__ccid000230.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000230/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000230/empa__ccid000230.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000230/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000230/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000230 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000230/empa__ccid000230.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000230/empa__ccid000230.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000231/empa__ccid000231.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000231/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000231/empa__ccid000231.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000231/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000231/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000231 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000231/empa__ccid000231.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000231/empa__ccid000231.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000232/empa__ccid000232.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000232/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000232/empa__ccid000232.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000232/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000232/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000232 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000232/empa__ccid000232.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000232/empa__ccid000232.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000233/empa__ccid000233.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000233/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000233/empa__ccid000233.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000233/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000233/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000233 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000233/empa__ccid000233.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000233/empa__ccid000233.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000234/empa__ccid000234.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000234/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000234/empa__ccid000234.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000234/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000234/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000234 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000234/empa__ccid000234.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000234/empa__ccid000234.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000235/empa__ccid000235.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000235/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000235/empa__ccid000235.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000235/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000235/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000235 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000235/empa__ccid000235.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000235/empa__ccid000235.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000236/empa__ccid000236.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000236/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000236/empa__ccid000236.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000236/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000236/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000236 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000236/empa__ccid000236.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000236/empa__ccid000236.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000237/empa__ccid000237.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000237/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000237/empa__ccid000237.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000237/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000237/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000237 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000237/empa__ccid000237.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000237/empa__ccid000237.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000238/empa__ccid000238.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000238/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000238/empa__ccid000238.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000238/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000238/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000238 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000238/empa__ccid000238.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000238/empa__ccid000238.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000239/empa__ccid000239.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000239/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000239/empa__ccid000239.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000239/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000239/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000239 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000239/empa__ccid000239.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000239/empa__ccid000239.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000240/empa__ccid000240.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000240/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000240/empa__ccid000240.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000240/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000240/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000240 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000240/empa__ccid000240.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000240/empa__ccid000240.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000241/empa__ccid000241.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000241/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000241/empa__ccid000241.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000241/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000241/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000241 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000241/empa__ccid000241.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000241/empa__ccid000241.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000242/empa__ccid000242.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000242/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000242/empa__ccid000242.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000242/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000242/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000242 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000242/empa__ccid000242.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000242/empa__ccid000242.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000243/empa__ccid000243.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000243/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000243/empa__ccid000243.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000243/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000243/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000243 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000243/empa__ccid000243.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000243/empa__ccid000243.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000244/empa__ccid000244.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000244/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000244/empa__ccid000244.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000244/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000244/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000244 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000244/empa__ccid000244.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000244/empa__ccid000244.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000245/empa__ccid000245.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000245/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000245/empa__ccid000245.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000245/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000245/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000245 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000245/empa__ccid000245.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000245/empa__ccid000245.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000246/empa__ccid000246.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000246/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000246/empa__ccid000246.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000246/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000246/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000246 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000246/empa__ccid000246.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000246/empa__ccid000246.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000247/empa__ccid000247.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000247/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000247/empa__ccid000247.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000247/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000247/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000247 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000247/empa__ccid000247.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000247/empa__ccid000247.bdf.parquet"
+        }
+      ]
+    },
+    {
+      "@id": "./empa__ccid000249/empa__ccid000249.bdf.csv",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000249/"
+      },
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@id": "./empa__ccid000249/empa__ccid000249.bdf.parquet",
+      "@type": "File",
+      "about": {
+        "@id": "./empa__ccid000249/"
+      },
+      "encodingFormat": "application/octet-stream"
+    },
+    {
+      "@id": "./empa__ccid000249/",
+      "@type": "Dataset",
+      "name": "Experiment ccid000249 Dataset",
+      "hasPart": [
+        {
+          "@id": "./empa__ccid000249/empa__ccid000249.bdf.csv"
+        },
+        {
+          "@id": "./empa__ccid000249/empa__ccid000249.bdf.parquet"
+        }
+      ]
+    }
+  ]
+}

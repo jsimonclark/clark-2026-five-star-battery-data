@@ -1,0 +1,11 @@
+g,model,capacity,voltage,energy,mass,massUnit,capacity x voltage,energy / (capacity x voltage),Wh per kg
+Microsoft,cm1 endt44198,3.0,3.83,11.5,48.0,g,11.49,1.001,240.0
+Microsoft,cm1 midt44198,2.93,3.83,11.2,48.0,g,11.22,0.998,233.0
+Microsoft,cm1 mult44198,2.93,3.83,11.2,47.0,g,11.22,0.998,238.0
+Microsoft,cm2 endt455110,4.4,3.86,17.0,62.0,g,16.98,1.001,274.0
+Microsoft,cm2 midt455110,4.327,3.86,16.8,62.0,g,16.7,1.006,271.0
+Microsoft,cm2 mult455110,4.256,3.86,16.5,62.0,g,16.43,1.004,266.0
+Microsoft,cm3 endt460100,4.32,3.86,16.68,60.0,g,16.68,1.0,278.0
+Microsoft,cm3 midt460100,4.35,3.87,16.83,60.0,g,16.83,1.0,280.0
+Microsoft,cm3 mult460100,3.98,3.87,15.4,60.0,g,15.4,1.0,257.0
+MORROW,Morrow Batteries IFpP45-173-115-B,101.5,3.2,,1999.0,g,324.8,,

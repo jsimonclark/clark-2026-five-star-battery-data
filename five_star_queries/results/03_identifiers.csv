@@ -1,0 +1,25 @@
+distinct IRIs by namespace,AURORA,MORROW,Microsoft
+doi.org,399,1,1
+w3id.org/emmo/domain,44,28,22
+w3id.org/emmo,18,22,12
+orcid.org,8,6,2
+qudt.org,5,0,0
+www.w3.org,3,11,8
+battery.knowledge-graph.eu,2,0,0
+www.wikidata.org,1,0,0
+example.org,1,0,0
+zenodo.org,0,405,776
+w3id.org/battinfo/id/1001/dataset,0,401,1
+w3id.org/battinfo/id/1001/test,0,142,0
+w3id.org/battinfo/cell,0,110,745
+w3id.org/battinfo/id/1001/spec,0,14,2
+schema.org,0,12,12
+spdx.org,0,3,2
+w3id.org/battinfo/spec,0,2,18
+www.iana.org,0,1,2
+w3id.org/battery-data-alliance/ontology,0,1,1
+www.battery-genome.org,0,1,1
+w3id.org/battinfo/organization,0,1,0
+w3id.org/battinfo/dataset,0,0,772
+w3id.org/battinfo/test,0,0,772
+cdla.dev,0,0,1

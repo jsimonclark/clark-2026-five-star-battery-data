@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use these files, cite them as below and cite the article for the method."
+type: software
+title: "Supporting files for How to Publish Five-Star Battery Data"
+abstract: "The notebook that merges the JSON-LD metadata of the three case-study deposits of the article How to Publish Five-Star Battery Data into one graph and queries it, with the files it reads and its results, and the per-dataset results of the Battery Data Commons survey."
+authors:
+  - family-names: Clark
+    given-names: Simon
+    orcid: "https://orcid.org/0000-0002-8758-6109"
+    affiliation: "SINTEF Industry"
+  - family-names: Kortstee
+    given-names: Lotte
+    orcid: "https://orcid.org/0009-0003-0822-5706"
+    affiliation: "Technical University of Denmark"
+  - family-names: Battaglia
+    given-names: Corsin
+    orcid: "https://orcid.org/0000-0002-5003-1134"
+    affiliation: "Empa, Swiss Federal Laboratories for Materials Science and Technology"
+  - family-names: Kimbell
+    given-names: Graham
+    orcid: "https://orcid.org/0000-0001-9610-3589"
+    affiliation: "Empa, Swiss Federal Laboratories for Materials Science and Technology"
+  - family-names: Punckt
+    given-names: Christian
+    orcid: "https://orcid.org/0000-0003-2120-5980"
+    affiliation: "Karlsruhe Institute of Technology"
+  - family-names: Obrador Rey
+    given-names: Sergi
+    orcid: "https://orcid.org/0009-0003-1413-0770"
+    affiliation: "Catalonia Institute for Energy Research (IREC)"
+  - family-names: Parmananda
+    given-names: Mukul
+    orcid: "https://orcid.org/0000-0002-1737-5955"
+    affiliation: "MORROW Batteries ASA"
+  - family-names: Watremetz
+    given-names: Benoit
+    affiliation: "MORROW Batteries ASA"
+  - family-names: Vegge
+    given-names: Tejs
+    orcid: "https://orcid.org/0000-0002-1484-0284"
+    affiliation: "Technical University of Denmark"
+  - family-names: Castelli
+    given-names: Ivano E.
+    orcid: "https://orcid.org/0000-0001-5880-5045"
+    affiliation: "Technical University of Denmark"
+repository-code: "https://github.com/jsimonclark/clark-2026-five-star-battery-data"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-11-23
+keywords:
+  - battery data
+  - FAIR data
+  - linked data
+  - JSON-LD
+  - BattINFO

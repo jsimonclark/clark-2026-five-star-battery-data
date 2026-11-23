@@ -1,0 +1,9 @@
+class,AURORA,MORROW,Microsoft
+BatteryCellSpecification,0,1,9
+BatteryCell,0,111,754
+CoinCell,199,0,0
+PouchCell,0,0,754
+PrismaticBattery,0,111,0
+BatteryTest,597,142,772
+dcat:Dataset,199,401,773
+dcat:Distribution,398,400,772

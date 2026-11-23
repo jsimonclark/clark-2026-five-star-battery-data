@@ -1,0 +1,11 @@
+g,model,cells,min,mean,max,unit
+Microsoft,cm1 endt44198,85,1.057,1.069,1.075,Ah
+Microsoft,cm1 midt44198,87,1.057,1.068,1.072,Ah
+Microsoft,cm1 mult44198,94,1.048,1.058,1.064,Ah
+Microsoft,cm2 endt455110,80,1.022,1.032,1.043,Ah
+Microsoft,cm2 midt455110,80,1.023,1.033,1.038,Ah
+Microsoft,cm2 mult455110,80,1.025,1.031,1.04,Ah
+Microsoft,cm3 endt460100,79,1.005,1.014,1.023,Ah
+Microsoft,cm3 midt460100,80,1.003,1.012,1.02,Ah
+Microsoft,cm3 mult460100,80,1.01,1.019,1.037,Ah
+MORROW,Morrow Batteries IFpP45-173-115-B,104,0.963,1.007,1.029,Ah

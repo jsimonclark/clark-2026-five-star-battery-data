@@ -1,0 +1,5 @@
+* text=auto eol=lf
+five_star_queries/metadata/** -text
+five_star_queries/contexts/** -text
+five_star_queries/ontologies/** -text
+five_star_queries/schemas/** -text

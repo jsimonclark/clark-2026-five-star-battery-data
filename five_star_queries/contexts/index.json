@@ -1,0 +1,7 @@
+{
+ "https://w3id.org/emmo/domain/battery/context": "emmo-domain-battery-context.json",
+ "https://w3id.org/emmo/domain/chemical-substance/context": "emmo-domain-chemical-substance-context.json",
+ "https://w3id.org/battinfo/context/records/v1.json": "battinfo-records-context-v1.json",
+ "https://w3id.org/ro/crate/1.1/context": "ro-crate-1.1-context.json",
+ "https://w3id.org/battery-data-alliance/ontology/battery-data-format/context": "bdf-context.json"
+}

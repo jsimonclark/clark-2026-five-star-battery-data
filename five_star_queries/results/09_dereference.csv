@@ -1,0 +1,25 @@
+deposit,namespace,identifier,n in deposit,status,content type,resolved to
+AURORA,battery.knowledge-graph.eu,https://battery.knowledge-graph.eu/wiki/Item:OSW10266cee36b64c82a8bffcd47ee2d55f,2,200,text/html,https://battery.knowledge-graph.eu/wiki/Item:OSW10266cee36b64c82a8bffcd47ee2d55f
+AURORA,doi.org,https://doi.org/10.1002/batt.202500155,399,200,application/json,https://api.crossref.org/v1/works/10.1002%2Fbatt.202500155/transform
+AURORA,orcid.org,https://orcid.org/0000-0001-9610-3589,8,200,application/ld+json,https://pub.orcid.org/v3.0/0000-0001-9610-3589
+AURORA,www.wikidata.org,https://www.wikidata.org/wiki/Q683116,1,200,text/html,https://www.wikidata.org/wiki/Q683116
+MORROW,doi.org,https://doi.org/10.5281/zenodo.24261116,1,200,text/html,https://zenodo.org/records/24261116
+MORROW,orcid.org,https://orcid.org/0000-0001-5880-5045,6,200,application/ld+json,https://pub.orcid.org/v3.0/0000-0001-5880-5045
+MORROW,w3id.org/battinfo/cell,https://w3id.org/battinfo/cell/0dz2-2awd-ztjn-8v18,110,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/cell/0dz2-2awd-ztjn-8v18/resource.jsonld
+MORROW,w3id.org/battinfo/id/1001/dataset,https://w3id.org/battinfo/id/1001/dataset/06rg-pvz3-53w0-vns6,401,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/dataset/06rg-pvz3-53w0-vns6/resource.jsonld
+MORROW,w3id.org/battinfo/id/1001/spec,https://w3id.org/battinfo/id/1001/spec/271n-0v4b-fbd6-fpmd,14,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/test_spec/271n-0v4b-fbd6-fpmd/resource.jsonld
+MORROW,w3id.org/battinfo/id/1001/test,https://w3id.org/battinfo/id/1001/test/00wv-pk6n-ejwr-hn9h,142,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/test/00wv-pk6n-ejwr-hn9h/resource.jsonld
+MORROW,w3id.org/battinfo/organization,https://w3id.org/battinfo/organization/vzb0-t8x4-tajn-bm4s,1,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/organization/vzb0-t8x4-tajn-bm4s/resource.jsonld
+MORROW,w3id.org/battinfo/spec,https://w3id.org/battinfo/spec/8g1d-skh8-s4nf-67cn,2,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/cell_type/8g1d-skh8-s4nf-67cn/resource.jsonld
+MORROW,www.battery-genome.org,https://www.battery-genome.org/registry,1,200,text/html,https://www.battery-genome.org/registry
+MORROW,zenodo.org,https://zenodo.org/records/20640029,405,200,text/html,https://zenodo.org/records/24261116
+Microsoft,doi.org,https://doi.org/10.5281/zenodo.24005755,1,200,text/html,https://zenodo.org/records/24005755
+Microsoft,orcid.org,https://orcid.org/0000-0002-8758-6109,2,200,application/ld+json,https://pub.orcid.org/v3.0/0000-0002-8758-6109
+Microsoft,w3id.org/battinfo/cell,https://w3id.org/battinfo/cell/02b8-de4a-wqwf-6ygd,745,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/cell/02b8-de4a-wqwf-6ygd/resource.jsonld
+Microsoft,w3id.org/battinfo/dataset,https://w3id.org/battinfo/dataset/001k-nzg7-ywxn-hbpp,772,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/dataset/001k-nzg7-ywxn-hbpp/resource.jsonld
+Microsoft,w3id.org/battinfo/id/1001/dataset,https://w3id.org/battinfo/id/1001/dataset/ayzy-6qms-6gkj-s7rc,1,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/dataset/ayzy-6qms-6gkj-s7rc/resource.jsonld
+Microsoft,w3id.org/battinfo/id/1001/spec,https://w3id.org/battinfo/id/1001/spec/bf3n-rmxk-4ney-z4hf,2,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/test_spec/bf3n-rmxk-4ney-z4hf/resource.jsonld
+Microsoft,w3id.org/battinfo/spec,https://w3id.org/battinfo/spec/27f7-2e6p-845m-6p6r,18,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/cell_spec/27f7-2e6p-845m-6p6r/resource.jsonld
+Microsoft,w3id.org/battinfo/test,https://w3id.org/battinfo/test/009g-6zf5-ewam-hfgd,772,200,application/ld+json,https://pub-0cc0b5ad760e484a8b2e417f0361c019.r2.dev/test/009g-6zf5-ewam-hfgd/resource.jsonld
+Microsoft,www.battery-genome.org,https://www.battery-genome.org/registry,1,200,text/html,https://www.battery-genome.org/registry
+Microsoft,zenodo.org,https://zenodo.org/records/24005755,776,200,text/html,https://zenodo.org/records/24005755
